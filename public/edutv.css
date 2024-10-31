@@ -1,0 +1,29 @@
+.header-matter{
+    border-bottom: 2px dashed grey;
+    
+}
+.form-header{
+  background-color: purple;
+  color: white;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.table-heading{
+    background-color: #318CE7;
+    color: white;
+}
+.card p{
+  color: #318CE7;
+}
+.card h2{
+  color: #318CE7;
+}
+.footer-content h6{
+  color: gray;
+}
+.footer-content ul a{
+  text-decoration: none;
+  list-style-type: none;
+  color: white;
+}

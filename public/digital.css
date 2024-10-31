@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .navbar{
+    background-color: #318CE7;
+   
+}
+.register-bar img{
+    height: 50px;
+    width: 50px;
+}
+.card-img-top{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+}
+.upgrade-cards{
+    margin: 10px;
+    border-color: black;
+}
+.digilogo{
+    height: 100px;
+    width: 150px;
+}
+.demo-class{
+      background-color: #ADD8E6;;
+}
+.demo{
+    background-color: white;
+    max-width: 90%;
+    margin: auto;
+}
+.header h4{
+    color: blue;
+    text-align: center;
+}
